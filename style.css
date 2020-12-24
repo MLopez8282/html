@@ -1,0 +1,112 @@
+body{
+    font-family: 'Bangers', cursive;
+    height:100%;
+    margin:0;
+    
+   
+}
+
+.first-image{
+    background: url("https://images.unsplash.com/photo-1460501501851-d5946a18e552?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8NzN8fGRlZXAlMjBvY2VhbiUyMHVuZGVyd2F0ZXJ8ZW58MHx8MHw%3D&auto=format&fit=crop&w=800&q=60");
+     height:100vh;
+      background-repeat:no-repeat;
+     background-size:cover;
+    
+     position:relative;
+    background-attachment: fixed;
+}    
+    
+video{
+    height:300px;
+    
+    float:right;
+    margin-right:100px;
+    margin-top:120px;
+}
+.title-1{
+    color:white;
+    font-size:200px;
+    margin-top:200px;
+    margin-left:200px;
+    position:absolute;
+}
+.sub-title-1{
+     color:white;
+    font-size:70px;
+    margin-top:450px;
+    margin-left:320px;
+    position:absolute;
+
+}
+.titles{
+     color:white;
+    margin-left:20px;
+    margin-top:100px;
+    position:absolute;
+    letter-spacing: 20px;
+    font-size: 40px;
+    font-family: 'Caveat', cursive;
+}
+
+  .paragraphs{
+      color:white;
+      font-size: 30px;
+      margin-left:20px;
+      margin-top:180px;
+      position:absolute;
+      font-family: 'Caveat', cursive;
+  } 
+.paragraphs-gator{
+     color:white;
+      font-size: 30px;
+      margin-left:20px;
+      margin-top:180px;
+      position:absolute;
+      font-family: 'Caveat', cursive;
+      z-index:50px;
+
+}
+
+
+.second-image{
+    
+   background: url("https://images.unsplash.com/photo-1597254512641-c0141c25f32c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1334&q=80");
+    min-height:500px;
+    background-repeat:no-repeat;
+     background-size:cover;
+     position:relative;
+    background-attachment: fixed;
+   
+} 
+
+   
+
+.third-image{
+    background: url("https://images.unsplash.com/photo-1598972262608-ad7552a61efa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1334&q=80");
+     min-height:500px;
+    background-repeat:no-repeat;
+     background-size:cover;
+     position:relative;
+    background-attachment: fixed;
+     
+} 
+   
+
+.fourth-image{
+    background: url("https://www.kuoni.co.uk/upload/inspiration/stephen/bio-plankton/bp1.jpg");
+     min-height:500px;
+    background-repeat:no-repeat;
+     background-size:cover;
+     position:relative;
+    background-attachment: fixed;
+   
+ 
+} 
+
+
+section{
+    height: 500px;
+    background-color:black;
+    margin-top:-50px;
+    
+}
