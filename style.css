@@ -20,14 +20,14 @@ body{
     height:300px;
     
     float:right;
-    margin-right:100px;
+    margin-right:50px;
     margin-top:120px;
 }
 .info{
        color:white;
       font-size: 35px;
       margin-left:20px;
-      margin-top:180px;
+      margin-top:170px;
       position:absolute;
       font-family: 'Caveat', cursive;
 }
@@ -37,7 +37,7 @@ body{
     color:white;
     font-size:200px;
     margin-top:200px;
-    margin-left:180px;
+    margin-left:170px;
     position:absolute;
     letter-spacing:4px;
 }
@@ -45,7 +45,7 @@ body{
      color:white;
     font-size:70px;
     margin-top:450px;
-    margin-left:180px;
+    margin-left:175px;
     position:absolute;
     letter-spacing:6px;
 
@@ -53,7 +53,7 @@ body{
 .titles{
      color:white;
     margin-left:20px;
-    margin-top:100px;
+    margin-top:90px;
     position:absolute;
     letter-spacing: 20px;
     font-size: 40px;
@@ -68,7 +68,7 @@ a{
 .links{
       color:white;
     margin-left:20px;
-    margin-top:430px;
+    margin-top:420px;
     position:absolute;
     
     font-size: 40px;
