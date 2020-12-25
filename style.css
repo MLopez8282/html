@@ -59,30 +59,11 @@ body{
 }
 
 
-.shark-link{
-      color:white;
-    margin-left:20px;
-    margin-top:430px;
-    position:absolute;
-    
-    font-size: 40px;
-    font-family: 'Caveat', cursive;
 
-}
 a{
     color:white;
 }
-.gator-link{
-      color:white;
-    margin-left:20px;
-    margin-top:430px;
-    position:absolute;
-    
-    font-size: 40px;
-    font-family: 'Caveat', cursive;
-
-}
-.plankton-link{
+.links{
       color:white;
     margin-left:20px;
     margin-top:430px;
@@ -94,6 +75,7 @@ a{
 }
 
 
+ 
 .second-image{
     
    background: url("https://images.unsplash.com/photo-1510965156882-b72babc7b619?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1641&q=80");
@@ -106,8 +88,6 @@ a{
   
    
 } 
-
-   
 
 .third-image{
     background: url("https://images.unsplash.com/photo-1598972262608-ad7552a61efa?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1334&q=80");
