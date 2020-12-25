@@ -44,7 +44,7 @@ body{
      color:white;
     font-size:70px;
     margin-top:450px;
-    margin-left:320px;
+    margin-left:270px;
     position:absolute;
 
 }
@@ -96,7 +96,7 @@ a{
 
 .second-image{
     
-   background: url("https://images.unsplash.com/photo-1597254512641-c0141c25f32c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1334&q=80");
+   background: url("https://images.unsplash.com/photo-1510965156882-b72babc7b619?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1641&q=80");
      min-height:500px;
     background-repeat:no-repeat;
      background-size:cover;
