@@ -37,15 +37,17 @@ body{
     color:white;
     font-size:200px;
     margin-top:200px;
-    margin-left:200px;
+    margin-left:180px;
     position:absolute;
+    letter-spacing:4px;
 }
 .sub-title-1{
      color:white;
     font-size:70px;
     margin-top:450px;
-    margin-left:270px;
+    margin-left:180px;
     position:absolute;
+    letter-spacing:6px;
 
 }
 .titles{
