@@ -21,14 +21,17 @@ body{
     
     float:right;
     margin-right:50px;
-    margin-top:120px;
+    justify-content: center;
+    margin-top:170px;
 }
 .info{
        color:white;
       font-size: 35px;
-      margin-left:20px;
-      margin-top:170px;
-      position:absolute;
+  margin-left:-15%;
+      margin-top:10%;
+   display:flex;
+   padding-right:10px;
+   justify-content:flex-start;
       font-family: 'Caveat', cursive;
 }
 
@@ -52,9 +55,10 @@ body{
 }
 .titles{
      color:white;
-    margin-left:20px;
+      display:flex;
+   justify-content:flex-start;
     margin-top:90px;
-    position:absolute;
+    
     letter-spacing: 20px;
     font-size: 40px;
     font-family: 'Caveat', cursive;
@@ -130,5 +134,7 @@ section{
     height: 500px;
     background-color:black;
     margin-top:-50px;
+    display:flex;
+   
     
 }
